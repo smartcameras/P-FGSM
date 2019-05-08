@@ -55,7 +55,7 @@ For example:
 ```
 python p-fgsm.py --model=resnet50 --path=./images
 ```
-In the publication [ResNet50](http://places2.csail.mit.edu/models_places365/resnet50_places365.pth.tar) is used. However, other models can be also be used: [ResNet18](http://places2.csail.mit.edu/models_places365/resnet18_places365.pth.tar),  and [AlexNet](http://places2.csail.mit.edu/models_places365/alexnet_places365.pth.tar). The pre-trained models will download automatically on the first execution of the code.
+In the publication [ResNet50](http://places2.csail.mit.edu/models_places365/resnet50_places365.pth.tar) is used. However, other models can also be used: [ResNet18](http://places2.csail.mit.edu/models_places365/resnet18_places365.pth.tar),  and [AlexNet](http://places2.csail.mit.edu/models_places365/alexnet_places365.pth.tar). The pre-trained models will download automatically on the first execution of the code.
 
 ## Output and format
 
