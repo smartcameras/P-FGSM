@@ -13,13 +13,13 @@ This is the official repository of Private FGSM (P-FGSM), a work published as *S
 
 ## Requirements
 
- - [ ] Conda
- - [ ] Python 2.7
- - [ ] Numpy
- - [ ] PyTorch
- - [ ] Torchvision
- - [ ] Opencv-python
- - [ ] Tqdm
+ - Conda
+ - Python 2.7
+ - Numpy
+ - PyTorch
+ - Torchvision
+ - Opencv-python
+ - Tqdm
 
 The code has been tested on Ubuntu 18.04 and MacOs 10.14.4.
 
