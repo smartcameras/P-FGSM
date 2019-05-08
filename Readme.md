@@ -1,11 +1,17 @@
 
+
 # Private FGSM
 
 ## Introduction
 This is the official repository of Private FGSM (P-FGSM), a work published as *Scene privacy protection* on Proc. of IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 12-17, 2019.
 
-## Requirements
+| ![Original Image](https://github.com/smartcameras/P-FGSM/blob/master/example/image.png) | ![Adversarial Image
+](https://github.com/smartcameras/P-FGSM/blob/master/example/image_adv.png) |
+|--|--|
+|  |  |
 
+
+## Requirements
 * Conda
 * Python 2.7
 * Numpy
@@ -31,7 +37,7 @@ Install requirements
 ```
 pip install -r requirements.txt
 ```
-Only if using MacOs:
+**Only if using MacOs**:
 ```
 export PATH="<pathToMiniconda>/bin:$PATH"
 brew install wget
