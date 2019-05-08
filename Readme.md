@@ -3,7 +3,7 @@
 # Private FGSM
 
 ## Introduction
-This is the official repository of Private FGSM (P-FGSM), a work published as *Scene privacy protection* on Proc. of IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 12-17, 2019.
+This is the official repository of Private FGSM (P-FGSM), a work published as [*Scene privacy protection*](http://www.eecs.qmul.ac.uk/~andrea/papers/2019_ICASSP_ScenePrivacyProtection__Li_Shamsabadi_Sanchez_Mazzon_Cavallaro.pdf) on Proc. of IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 12-17, 2019.
 
 | Original Image | Adversarial image |
 |---|---|
