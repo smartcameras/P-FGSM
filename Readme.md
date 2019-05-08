@@ -5,10 +5,11 @@
 ## Introduction
 This is the official repository of Private FGSM (P-FGSM), a work published as *Scene privacy protection* on Proc. of IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), Brighton, UK, May 12-17, 2019.
 
-| ![Original Image](https://github.com/smartcameras/P-FGSM/blob/master/example/image.png) | ![Adversarial Image](https://github.com/smartcameras/P-FGSM/blob/master/example/image_adv.png) |
+
+| <center> [Original Image](https://github.com/smartcameras/P-FGSM/blob/master/example/image.png) | <center> [Adversarial Image](https://github.com/smartcameras/P-FGSM/blob/master/example/image_adv.png) |
 |--|--|
-| Original Image | Adversarial image |
-| Church (confidence: 82.6%) | Zen Garden (confidence: 99.2%) |
+| <center>Original Image | <center>Adversarial image |
+| <center>Church (confidence: 82.6%) | <center>Zen Garden (confidence: 99.2%) |
 
 ## Requirements
 * Conda
