@@ -9,9 +9,7 @@ This is the official repository of Private FGSM (P-FGSM), a work published as *S
 ](https://github.com/smartcameras/P-FGSM/blob/master/example/image_adv.png) |
 |--|--|
 | Original Image | Adversarial image |
-|--|--|
 | Church (confidence: 82.6%) | Zen Garden (confidence: 99.2%) |
-
 
 ## Requirements
 * Conda
